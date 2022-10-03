@@ -63,7 +63,7 @@
 
 }
 
-.reportTable td.first {
+.reportTable td:nth-child(1) {
   background-color: #13A393;
   color: #FFFFFF;
   text-align: center;
