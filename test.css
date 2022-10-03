@@ -62,6 +62,12 @@
 
 }
 
+td.first
+    {
+        background-color: #13A393;
+        color: #FFFFFF;
+    }
+
 .indent {
   padding-left: 15px !important;
 
