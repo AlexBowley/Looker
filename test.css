@@ -70,14 +70,9 @@
 
 .subtotal {
   border-top: 1px solid #CCCCCC;
-  border-bottom: 2px solid #144641;
+  border-bottom: 3px solid #CCCCCC;
   background: #e4f7eb;
 
-}
-
-.0 {
-  color: #a9b1b5;
-    
 }
 
 .total {
